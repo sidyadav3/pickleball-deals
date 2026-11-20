@@ -40,7 +40,7 @@ The site is served with GitHub Pages from the `main` branch, root folder (Settin
 ## Credits and disclosures
 
 - The paddle promo codes are affiliate codes. The page owner earns a small commission when they're used.
-- Dial readings are from [John Kew Pickleball](https://www.johnkewpickleball.com/).
+- Dial readings are based off [John Kew Pickleball](https://www.johnkewpickleball.com/).
 - Product photos belong to their respective brands and retailers and are used here for sharing deals with friends.
 - Prices and codes can change, so confirm at checkout.
 
